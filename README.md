@@ -85,7 +85,7 @@ void printfA(int a[][2])       //遍历并打印数组 stor
 	putchar('\n');
 }
 
-bool comparS(void)
+bool comparS(void)    //测试函数
 {
 	bool bl = true;
 	int m2,n2;
